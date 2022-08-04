@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SWETHA-CHAKRAWARTHY
+- 👋 Hi, I’m @swetha-chakrawarthy
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Devops and Cloud Integration
 - 💞️ I’m looking to collaborate on DevOps
